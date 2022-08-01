@@ -11,8 +11,8 @@ WAP that will take (n x n) integer inputs into a square matrix of dimension n (w
 
 |Input Sample | Output Sample  |
 |-------------|----------------|
-| 5<br/>==1 2 3== 4 ==5==<br/>2 3 ==4== 1 ==6==<br/>==3 4  9 6 7==<br/>==4== 2 ==6== 7 8<br/>==5== 4 ==3 2 1== | 71 |
-|7<br/>==1 1 1 1== 1 1 ==1==<br/>1 1 1 ==1== 1 1 ==1==<br/>1 1 1 ==1== 1 1 ==1==<br/> ==1 1 1 1 1 1 1==<br/>==1== 1 1 ==1== 1 1 1<br/>==1== 1 1 ==1== 1 1 1<br/>==1== 1 1 ==1 1 1 1==<br/> | 25 |
+| 5<br/>**1 2 3** 4 **5**<br/>2 3 **4** 1 **6**<br/>**3 4  9 6 7**<br/>**4** 2 **6** 7 8<br/>**5** 4 **3 2 1** | 71 |
+|7<br/>**1 1 1 1** 1 1 **1**<br/>1 1 1 **1** 1 1 **1**<br/>1 1 1 **1** 1 1 **1**<br/> **1 1 1 1 1 1 1**<br/>**1** 1 1 **1** 1 1 1<br/>**1** 1 1 **1** 1 1 1<br/>**1** 1 1 **1 1 1 1**<br/> | 25 |
 
 ###  B
 WAP that will take inputs of a n sized square matrix into a 2D array. Now show all the elements of its two diagonals.  [Reference](http://en.wikipedia.org/wiki/Main_diagonal)
@@ -21,7 +21,7 @@ WAP that will take inputs of a n sized square matrix into a 2D array. Now show a
 | 5<br/>1 2 3 4 5<br/> 5 4 3 2 1<br/>2 2 2 2 2<br/>6 7 8 9 0<br/>1 9 3 7 4| Major diagonal: 1 4 2 9 4<br/>Minor diagonal: 5 2 2 7 1 |
 
 ### C
-**WAP that will take the size of an identity matrix from the user and generate the identity matrix into a 2D array. Finally display it. [Reference:](http://en.wikipedia.org/wiki/Identity_matrix)**
+WAP that will take the size of an identity matrix from the user and generate the identity matrix into a 2D array. Finally display it. [Reference:](http://en.wikipedia.org/wiki/Identity_matrix)
 |Sample Input|Sample Output  |
 |--|--|
 | 5 | 1 0 0 0 0<br>0 1 0 0 0<br>0 0 1 0 0<br>0 0 0 1 0<br>0 0 0 0 1 |
